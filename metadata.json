@@ -1,0 +1,5 @@
+{
+  "name": "ArtStyl AI Chatbot",
+  "description": "An AI-powered chatbot for artstyl.cz, designed to assist users by answering questions about art, design, and various artistic styles using the power of Gemini.",
+  "requestFramePermissions": []
+}
